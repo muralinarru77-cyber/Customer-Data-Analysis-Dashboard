@@ -28,3 +28,4 @@ The study also highlighted that digital payment methods are becoming increasingl
 By using visualization tools like Tableau and Power BI, complex data was transformed into easy-to-understand dashboards, enabling better interpretation of trends and patterns.
 
 ## Dashboard
+![WhatsApp Image 2026-04-02 at 11 58 11 AM](https://github.com/user-attachments/assets/cd79faf5-9790-4037-9961-132bfab658b4)
