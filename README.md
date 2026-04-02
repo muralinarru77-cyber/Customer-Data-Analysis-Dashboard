@@ -18,7 +18,8 @@ The primary objective of this project is to analyze customer purchasing behavior
 10. How is the distribution of the payment method?
 11. Visualize the data using Tableau /Power BI and derive
 insights and give your inputs/suggestions to the company.
-- <a herf="https://github.com/muralinarru77-cyber/Customer-Data-Analysis-Dashboard/blob/main/WhatsApp%20Image%202026-04-02%20at%2011.58.11%20AM.jpeg">View Dashboard</a>
+
+- <a herf="https://github.com/muralinarru77-cyber/Customer-Data-Analysis-Dashboard/blob/main/WhatsApp%20Image%202026-04-02%20at%2011.58.11%20AM.jpeg">View Dashboard</a> 
 
 ## Process:
 This project successfully analyzed customer shopping behavior based on gender, age, product categories, and payment methods. The analysis revealed clear patterns in how different customer segments interact with products and make purchasing decisions.
