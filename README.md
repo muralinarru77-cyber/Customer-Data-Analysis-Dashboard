@@ -29,12 +29,6 @@ By using visualization tools like Tableau and Power BI, complex data was transfo
 ## Dashboard
 ![WhatsApp Image 2026-04-02 at 11 58 11 AM](https://github.com/user-attachments/assets/cd79faf5-9790-4037-9961-132bfab658b4)
 
-## Process:
-•	This project successfully analyzed customer shopping behavior based on gender, age, product categories, and payment methods. The analysis revealed clear patterns in how different customer segments interact with products and make purchasing decisions.
-•	It was observed that shopping behavior varies significantly across demographics. Certain groups contribute more to product purchases, while others generate higher revenue. Product category preferences are strongly influenced by both age and gender, indicating the importance of targeted marketing strategies.
-•	The study also highlighted that digital payment methods are becoming increasingly dominant, especially among younger customers, reflecting a shift toward convenience and technology-driven transactions.
-•	By using visualization tools like Tableau and Power BI, complex data was transformed into easy-to-understand dashboards, enabling better interpretation of trends and patterns.
-
 ## Gender-Based Insights
 •	The shopping distribution indicates that one gender (typically females) contributes a higher number of transactions. 
 •	More products were sold to females, suggesting higher purchase frequency. 
@@ -43,7 +37,7 @@ By using visualization tools like Tableau and Power BI, complex data was transfo
 •	The majority of shopping activity comes from the 18–35 age group, making them the most active customers. 
 •	The 26–35 age category tends to purchase the highest number of products. 
 •	The 36–50 age group often generates the highest revenue due to stronger purchasing power.
-Product Category Insights
+## Product Category Insights
 •	Certain categories like Fashion and Electronics dominate overall sales. 
 •	Gender influence: 
 •	Males prefer electronics and gadgets 
